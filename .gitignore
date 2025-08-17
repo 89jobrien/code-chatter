@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+.next/
+chroma/
+chroma_db/
+.env
+.venv/
+__pycache__/
+*.log
